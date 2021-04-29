@@ -1,4 +1,4 @@
-# suiciderates
+# Suicide Rates
 Data analysis and visualizations of global suicide rate data from 1985 to 2016
 
 Programming Language: Python
